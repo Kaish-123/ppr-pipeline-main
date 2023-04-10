@@ -1,0 +1,13 @@
+__pycache__*
+tmp/
+logs/
+aws_credentials
+.DS_Store
+test-data/
+.env
+.vscode
+dockerfiles
+target/
+.idea
+node_modules/
+db-backups/
